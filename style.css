@@ -1,0 +1,26 @@
+h1 {
+  color: rgba(68, 3, 245, 0.767);
+  background-color: rgba(185, 255, 209, 0.781);
+  width: 250px;
+  /* font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: "Festive", cursive;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Rampart One", cursive;
+}
+
+#header1 {
+  background-color: chartreuse;
+  color: crimson;
+}
+.header2{
+    text-align: center;
+    border: 1px solid red;
+    border-style: dotted;
+    margin: 5px;
+}
+
+section{
+  color: rgb(255 255 255);
+  background-color: rgb(186 7 189);
+}
